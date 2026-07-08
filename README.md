@@ -1,4 +1,4 @@
-# Disease-Prediction
+# MediScan AI – Intelligent Disease Diagnosis System
 # Disease Prediction using Deep Learning
 
 A multi-disease diagnostic web app that uses deep learning to classify medical images across five conditions. Upload a scan, pick the relevant model, and get a prediction with a confidence score — served through a simple Flask interface.
